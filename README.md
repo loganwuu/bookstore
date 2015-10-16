@@ -10,8 +10,7 @@ A Drupal bookstore website where users can read book reviews, purchase books and
 
 Login Info
 ----------
-Database:
-name: ```bookstore```
+Database name: ```bookstore```
 username: ```abc```
 password: ```root```
 
