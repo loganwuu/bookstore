@@ -8,16 +8,16 @@
 A Drupal bookstore website where users can read book reviews, purchase books and search for books.
 
 
-LOGIN INFO
+Login Info
 ----------
 Database:
-name: bookstore
-username: abc
-password: root
+name: ```bookstore```
+username: ```abc```
+password: ```root```
 
 Drupal Site Maintenance:
-username: Admin
-password: root
+username: ```Admin```
+password: ```root```
 
 
 ## Setup
