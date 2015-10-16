@@ -9,7 +9,6 @@ features[ctools][] = strongarm:strongarm:1
 features[ctools][] = views:views_default:3.0
 features[features_api][] = api:2
 features[field_instance][] = node-discount-body
-features[menu_links][] = navigation_discount:node/add/discount
 features[node][] = discount
 features[variable][] = comment_anonymous_discount
 features[variable][] = comment_default_mode_discount
