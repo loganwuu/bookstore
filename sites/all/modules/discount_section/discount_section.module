@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Discount section feature.
+ */
+
+include_once 'discount_section.features.inc';
